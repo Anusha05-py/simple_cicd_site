@@ -1,0 +1,10 @@
+html
+copy edit
+<!DOCTYPE html>
+<html>
+<head>
+<title>my CI/CD site</title>
+</head>
+<h1>welcome to my website!</h1>
+</body>
+</html>
